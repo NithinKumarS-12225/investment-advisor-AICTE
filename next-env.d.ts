@@ -3,4 +3,4 @@
 import "./.next/dev/types/routes.d.ts";
 
 // NOTE: This file should not be editeddd.
-// see https://nextjs.org/docs/app/api-reference/config/typescript for more information.
+// see https://nextjs.org/docs/app/api-reference/config/typescript for more info.
